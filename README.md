@@ -6,4 +6,5 @@ Main Objectives of this project:
 
 Two open source datasets from Kaggle are being used in this project
 superstore_campaign_data.csv - https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset
+
 superstore_sales_data.csv - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
